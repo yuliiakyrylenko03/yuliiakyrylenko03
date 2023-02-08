@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+</div>
 
-<!--
-**yuliiakyrylenko03/yuliiakyrylenko03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hola a todos! Hi all! Вітаю!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+:woman_technologist: About me
+
+My name is Yuliia and I am a begginner Front-end Developer <img src="https://media.giphy.com/media/DLz5I4BGyRSOlbSC3o/giphy.gif" width="30"/> from Ukraine:blue_heart::yellow_heart: currently living in Spain:es:
+
+I am looking for the interesting projects to gain the commercial expirience. I am not stopping deppen my knowledges, improve my skills, study and practice to grow profecionally.
+
+You can find my portfolio here :point_right:	 
+<a>https://yuliiakyrylenko03.github.io/portfolio/dist/index.html</a>
+
+
